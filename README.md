@@ -29,5 +29,8 @@ Setup Steps:
 9. After coding > open integrated terminal > "npx expo start".
 
 Screenshots:
+<img width="467" height="797" alt="Screenshot 2025-07-29 101448" src="https://github.com/user-attachments/assets/0871ecd6-5527-4d58-b71b-c39163b60872" />
 
-I have provided the screenshots of the app running in Bluestacks in the README on the aforementioned github repository.
+<img width="1919" height="1016" alt="Screenshot 2025-07-29 101531" src="https://github.com/user-attachments/assets/b66214cd-9260-4f0e-9fd3-211121fa59fd" />
+
+
